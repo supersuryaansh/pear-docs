@@ -156,6 +156,7 @@ Supply no argument to view platform information.
 Synchronize files from link to dir.
 
 > To dump to stdout use `-` in place of `<dir>`
+
 > To dump a specific file use `pear dump <link>/path/to/file -`
 
 ```
